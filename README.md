@@ -178,3 +178,19 @@ Every problem is another opportunity to learn.
 **Solve. Learn. Commit. Repeat.**
 
 ⭐ Follow the journey if you'd like to see where consistency takes me.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
