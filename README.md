@@ -189,8 +189,14 @@ Every problem is another opportunity to learn.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
