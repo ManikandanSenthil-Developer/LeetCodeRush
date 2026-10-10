@@ -184,6 +184,7 @@ Every problem is another opportunity to learn.
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -199,4 +200,12 @@ Every problem is another opportunity to learn.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
