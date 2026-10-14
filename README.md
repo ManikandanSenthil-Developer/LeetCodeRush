@@ -184,6 +184,7 @@ Every problem is another opportunity to learn.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0217-contains-duplicate) |
@@ -206,6 +207,7 @@ Every problem is another opportunity to learn.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0283-move-zeroes) |
@@ -221,4 +223,8 @@ Every problem is another opportunity to learn.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ManikandanSenthil-Developer/LeetCodeRush/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
